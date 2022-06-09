@@ -307,6 +307,7 @@ footer .logo{
 
 .input-link{
     border-bottom: 0.5px solid hsl(260, 8%, 14%);
+    word-wrap: break-word;
 }
 
 .result button{
